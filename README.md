@@ -91,11 +91,11 @@ This project was developed as part of an **IoT course**.
 
 📧 **Emails:**  
 - **Miri Yakobson** - [miriamyakobson200021@gmail.com](mailto:miriamyakobson200021@gmail.com)  
-- **Liat Simhaev** - [liat191103@gmail.com](mailto:liat191103@gmail.com)  
+- **Liat Simhayev** - [liat191103@gmail.com](mailto:liat191103@gmail.com)  
 
 📂 **GitHub Repository:**  
 - **Miriam Yakobson** - [github.com/miri-y](https://github.com/miri-y)  
-- **Liat Simhaev** - [github.com/liatsimhaev](https://github.com/liatsimhaev)  
+- **Liat Simhayev** - [github.com/liatsimhayev](https://github.com/liatsimhayev)  
 
 ---
 
